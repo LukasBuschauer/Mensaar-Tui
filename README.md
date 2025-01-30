@@ -1,10 +1,10 @@
-#Mensaar-Tui
+# Mensaar-Tui
 is a Text User Interface for quickly getting todays dishes at Saarland University's cafeteria.
 
-##Usage
+## Usage
 
 
-##Installation
+## Installation
 ### - Linux
 ```
 chmod +x ./mensaartui.py
