@@ -34,4 +34,5 @@ still runing in Import-Erorr - try to downgrade pyinstaller - see [Getting error
 
 This exlpanation is from a reddit post you can find [here](https://stackoverflow.com/questions/5458048/how-can-i-make-a-python-script-standalone-executable-to-run-without-any-dependen)
 
-
+## License
+This software is released under MIT license. Remember that this gives you all freedom except for slapping your name on it.
